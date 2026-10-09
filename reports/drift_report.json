@@ -1,0 +1,78 @@
+{
+  "test_set_vs_train": {
+    "LIMIT_BAL": {
+      "psi": 0.0016,
+      "status": "stable"
+    },
+    "AGE": {
+      "psi": 0.0029,
+      "status": "stable"
+    },
+    "recent_delay": {
+      "psi": 0.0011,
+      "status": "stable"
+    },
+    "n_months_delayed": {
+      "psi": 0.0006,
+      "status": "stable"
+    },
+    "util_latest": {
+      "psi": 0.0013,
+      "status": "stable"
+    },
+    "util_mean": {
+      "psi": 0.0024,
+      "status": "stable"
+    },
+    "pay_ratio_mean": {
+      "psi": 0.0009,
+      "status": "stable"
+    },
+    "months_zero_payment": {
+      "psi": 0.0004,
+      "status": "stable"
+    },
+    "avg_payment": {
+      "psi": 0.002,
+      "status": "stable"
+    }
+  },
+  "simulated_stress_vs_train": {
+    "LIMIT_BAL": {
+      "psi": 0.0016,
+      "status": "stable"
+    },
+    "AGE": {
+      "psi": 0.0029,
+      "status": "stable"
+    },
+    "recent_delay": {
+      "psi": 0.1091,
+      "status": "watch"
+    },
+    "n_months_delayed": {
+      "psi": 0.1884,
+      "status": "watch"
+    },
+    "util_latest": {
+      "psi": 0.0381,
+      "status": "stable"
+    },
+    "util_mean": {
+      "psi": 0.0208,
+      "status": "stable"
+    },
+    "pay_ratio_mean": {
+      "psi": 0.0385,
+      "status": "stable"
+    },
+    "months_zero_payment": {
+      "psi": 0.0004,
+      "status": "stable"
+    },
+    "avg_payment": {
+      "psi": 0.002,
+      "status": "stable"
+    }
+  }
+}

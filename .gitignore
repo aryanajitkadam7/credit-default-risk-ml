@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+mlflow.db
+mlruns/
+data/raw/
+reports/oof_scores.npy
+models/lgb_uncalibrated.joblib
+.venv/

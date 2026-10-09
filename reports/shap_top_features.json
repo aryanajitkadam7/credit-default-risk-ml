@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "max_delay",
+    "mean_abs_shap": 0.2328
+  },
+  {
+    "feature": "n_months_delayed",
+    "mean_abs_shap": 0.1892
+  },
+  {
+    "feature": "PAY_1",
+    "mean_abs_shap": 0.1823
+  },
+  {
+    "feature": "recent_delay",
+    "mean_abs_shap": 0.0966
+  },
+  {
+    "feature": "LIMIT_BAL",
+    "mean_abs_shap": 0.0766
+  },
+  {
+    "feature": "BILL_AMT1",
+    "mean_abs_shap": 0.0759
+  },
+  {
+    "feature": "avg_payment",
+    "mean_abs_shap": 0.0759
+  },
+  {
+    "feature": "util_max",
+    "mean_abs_shap": 0.0638
+  },
+  {
+    "feature": "util_latest",
+    "mean_abs_shap": 0.0593
+  },
+  {
+    "feature": "PAY_AMT2",
+    "mean_abs_shap": 0.0573
+  },
+  {
+    "feature": "bill_growth",
+    "mean_abs_shap": 0.0547
+  },
+  {
+    "feature": "months_zero_payment",
+    "mean_abs_shap": 0.0495
+  },
+  {
+    "feature": "util_mean",
+    "mean_abs_shap": 0.0494
+  },
+  {
+    "feature": "pay_ratio_mean",
+    "mean_abs_shap": 0.0455
+  },
+  {
+    "feature": "PAY_AMT1",
+    "mean_abs_shap": 0.0435
+  }
+]
